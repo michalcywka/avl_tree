@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1522962413 source:e:\dokumenty\pamsi\drzewoavl\main.cpp
+	<iostream>
+	"wezel.hpp"
+	"drzewo.hpp"
+
+1522961258 e:\dokumenty\pamsi\drzewoavl\drzewo.hpp
+	<iostream>
+	"funkcje.hpp"
+
+1522959119 e:\dokumenty\pamsi\drzewoavl\funkcje.hpp
+	<iostream>
+
+1522928634 source:e:\dokumenty\pamsi\drzewoavl\wezel.c
+
+1522960375 e:\dokumenty\pamsi\drzewoavl\wezel.hpp
+	<iostream>
+
